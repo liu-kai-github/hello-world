@@ -1,1 +1,11 @@
 # hello-world
+
+```
+echo "# knowledge-combing" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:liu-kai-github/knowledge-combing.git
+git push -u origin master
+
+```
