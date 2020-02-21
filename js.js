@@ -1,3 +1,3 @@
 function func() {
-	return 0;
+	return 'agh';
 }
