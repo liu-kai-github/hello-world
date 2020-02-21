@@ -1,3 +1,3 @@
 function func() {
-	return 10;
+	return 0;
 }
