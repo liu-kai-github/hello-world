@@ -1,3 +1,3 @@
 function func() {
-	return '1234';
+	return '14';
 }
