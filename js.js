@@ -1,3 +1,3 @@
 function func() {
-	return 'agh';
+	return '1234';
 }
